@@ -1,0 +1,3 @@
+com\example\DemoArtifactApplication.class
+com\example\model\Product.class
+com\example\controller\ProductController.class
